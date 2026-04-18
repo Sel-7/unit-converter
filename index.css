@@ -56,7 +56,7 @@ body, #hero-heading {
 
 .box {
     background-color: white;
-    min-width: 500px;
+    width: 500px;
     margin: 30px auto;
     padding: 20px;
 }
