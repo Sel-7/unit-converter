@@ -46,7 +46,7 @@ body, #hero-heading {
 #num-convert {
     width: 125px;
     height: 75px;
-    border: 3px solid #ffffff;
+    border: 2px solid #ffffff;
     border-radius: 10px;
     text-align: center;
     color: #ffffff;
@@ -57,7 +57,8 @@ body, #hero-heading {
 .box {
     background-color: white;
     min-width: 500px;
-    margin: 0px auto;
+    margin: 30px auto;
+    padding: 20px;
 }
 
 .unit-desc {
